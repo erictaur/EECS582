@@ -20,3 +20,7 @@ Install `latexpdf` compiler
 Install required fonts
 
 - `sudo apt-get install texlive-fonts-recommended`
+
+## Command to convert Markdown to PDF
+
+- `pandoc <FILE>.md -t latex -o <FILE>.pdf`
