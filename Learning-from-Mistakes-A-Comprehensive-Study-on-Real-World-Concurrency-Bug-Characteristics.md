@@ -33,5 +33,4 @@ The authors provided the a comprehensive real world concurrency bug characterist
 
 ### Open Questions [Where to go from here?]
 
-- The performance properties analyzed by the Mystery machine are fairly high-level. One interesting direction would be to extend this work to gather more information in a targeted way to do more low-level performance debugging (e.g., what code is responsible for the slow down?).
-- The scope of the work can be extended to look into end-to-end performance analysis for mobile platforms in addition to the desktop.
+- How does better language features to support “order” semantics to further ease concurrent programming?
